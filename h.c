@@ -3,4 +3,6 @@ main()
 {
 printf("Hello World");
 }
-sfjrefljfprjf'rjeaf['f]
+sfjrefljfprjf'rjeaf['f];
+hishohc;h:hC:h;Hc;hC:__GCC_HAVE_SYNC_COMPARE_AND_SWAP_16n
+cnncncncncncn
